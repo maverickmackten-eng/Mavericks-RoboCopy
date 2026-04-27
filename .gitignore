@@ -1,0 +1,12 @@
+# Logs generated at runtime
+logs/
+*.log
+
+# Settings (contain user paths — not for source control)
+settings.json
+
+# Pester output
+TestResults*.xml
+
+# PowerShell gallery cache
+PSGetModuleInfo.xml
